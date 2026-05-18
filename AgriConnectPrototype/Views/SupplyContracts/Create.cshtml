@@ -1,0 +1,83 @@
+﻿@model AgriConnectPrototype.Models.SupplyContract
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<h4>SupplyContract</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create" enctype="multipart/form-data">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="FarmerId" class="control-label"></label>
+                <select asp-for="FarmerId" class ="form-control" asp-items="ViewBag.FarmerId"></select>
+            </div>
+            <div class="form-group">
+                <label asp-for="StartDate" class="control-label"></label>
+                <input asp-for="StartDate" class="form-control" />
+                <span asp-validation-for="StartDate" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="EndDate" class="control-label"></label>
+                <input asp-for="EndDate" class="form-control" />
+                <span asp-validation-for="EndDate" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Status" class="control-label"></label>
+                <select asp-for="Status" class="form-control">
+                    <option value="">-- Select Status --</option>
+                    <option value="Draft">Draft</option>
+                    <option value="Active">Active</option>
+                    <option value="Expired">Expired</option>
+                    <option value="On Hold">On Hold</option>
+                </select>
+                <span asp-validation-for="Status" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="ProduceType" class="control-label"></label>
+                <select asp-for="ProduceType" class="form-control">
+                    <option value="">-- Select Produce Type --</option>
+                    <option value="Maize">Maize</option>
+                    <option value="Vegetables">Vegetables</option>
+                    <option value="Fruit">Fruit</option>
+                    <option value="Livestock">Livestock</option>
+                </select>
+                <span asp-validation-for="ProduceType" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="ServiceLevel" class="control-label"></label>
+                <input asp-for="ServiceLevel" class="form-control" />
+                <span asp-validation-for="ServiceLevel" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="SignedAgreementPath" class="control-label"></label>
+                <input asp-for="SignedAgreementPath" class="form-control" />
+                <span asp-validation-for="SignedAgreementPath" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label>Signed Supply Agreement PDF</label>
+                <input type="file" name="signedAgreement" class="form-control" />
+            </div>
+
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

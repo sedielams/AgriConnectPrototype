@@ -1,0 +1,460 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sedie\\source\\repos\\AgriConnectPrototype\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9DD9562D-DEED-4DC6-A392-BBC303F15D1C}|AgriConnectPrototype\\AgriConnectPrototype.csproj|c:\\users\\sedie\\source\\repos\\agriconnectprototype\\agriconnectprototype\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9DD9562D-DEED-4DC6-A392-BBC303F15D1C}|AgriConnectPrototype\\AgriConnectPrototype.csproj|solutionrelative:agriconnectprototype\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DD9562D-DEED-4DC6-A392-BBC303F15D1C}|AgriConnectPrototype\\AgriConnectPrototype.csproj|c:\\users\\sedie\\source\\repos\\agriconnectprototype\\agriconnectprototype\\services\\exchangerateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DD9562D-DEED-4DC6-A392-BBC303F15D1C}|AgriConnectPrototype\\AgriConnectPrototype.csproj|solutionrelative:agriconnectprototype\\services\\exchangerateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DD9562D-DEED-4DC6-A392-BBC303F15D1C}|AgriConnectPrototype\\AgriConnectPrototype.csproj|c:\\users\\sedie\\source\\repos\\agriconnectprototype\\agriconnectprototype\\services\\currencyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DD9562D-DEED-4DC6-A392-BBC303F15D1C}|AgriConnectPrototype\\AgriConnectPrototype.csproj|solutionrelative:agriconnectprototype\\services\\currencyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DD9562D-DEED-4DC6-A392-BBC303F15D1C}|AgriConnectPrototype\\AgriConnectPrototype.csproj|c:\\users\\sedie\\source\\repos\\agriconnectprototype\\agriconnectprototype\\services\\filevalidationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DD9562D-DEED-4DC6-A392-BBC303F15D1C}|AgriConnectPrototype\\AgriConnectPrototype.csproj|solutionrelative:agriconnectprototype\\services\\filevalidationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DD9562D-DEED-4DC6-A392-BBC303F15D1C}|AgriConnectPrototype\\AgriConnectPrototype.csproj|c:\\users\\sedie\\source\\repos\\agriconnectprototype\\agriconnectprototype\\models\\farmservicerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DD9562D-DEED-4DC6-A392-BBC303F15D1C}|AgriConnectPrototype\\AgriConnectPrototype.csproj|solutionrelative:agriconnectprototype\\models\\farmservicerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DD9562D-DEED-4DC6-A392-BBC303F15D1C}|AgriConnectPrototype\\AgriConnectPrototype.csproj|c:\\users\\sedie\\source\\repos\\agriconnectprototype\\agriconnectprototype\\models\\supplycontract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DD9562D-DEED-4DC6-A392-BBC303F15D1C}|AgriConnectPrototype\\AgriConnectPrototype.csproj|solutionrelative:agriconnectprototype\\models\\supplycontract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DD9562D-DEED-4DC6-A392-BBC303F15D1C}|AgriConnectPrototype\\AgriConnectPrototype.csproj|c:\\users\\sedie\\source\\repos\\agriconnectprototype\\agriconnectprototype\\models\\farmer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DD9562D-DEED-4DC6-A392-BBC303F15D1C}|AgriConnectPrototype\\AgriConnectPrototype.csproj|solutionrelative:agriconnectprototype\\models\\farmer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DD9562D-DEED-4DC6-A392-BBC303F15D1C}|AgriConnectPrototype\\AgriConnectPrototype.csproj|c:\\users\\sedie\\source\\repos\\agriconnectprototype\\agriconnectprototype\\controllers\\farmerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DD9562D-DEED-4DC6-A392-BBC303F15D1C}|AgriConnectPrototype\\AgriConnectPrototype.csproj|solutionrelative:agriconnectprototype\\controllers\\farmerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{148951F8-4904-4749-9585-4FAF559C605E}|Tests\\Tests.csproj|c:\\users\\sedie\\source\\repos\\agriconnectprototype\\tests\\servicerequestrulestests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{148951F8-4904-4749-9585-4FAF559C605E}|Tests\\Tests.csproj|solutionrelative:tests\\servicerequestrulestests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{148951F8-4904-4749-9585-4FAF559C605E}|Tests\\Tests.csproj|c:\\users\\sedie\\source\\repos\\agriconnectprototype\\tests\\filevalidationservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{148951F8-4904-4749-9585-4FAF559C605E}|Tests\\Tests.csproj|solutionrelative:tests\\filevalidationservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{148951F8-4904-4749-9585-4FAF559C605E}|Tests\\Tests.csproj|c:\\users\\sedie\\source\\repos\\agriconnectprototype\\tests\\currencyservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{148951F8-4904-4749-9585-4FAF559C605E}|Tests\\Tests.csproj|solutionrelative:tests\\currencyservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DD9562D-DEED-4DC6-A392-BBC303F15D1C}|AgriConnectPrototype\\AgriConnectPrototype.csproj|c:\\users\\sedie\\source\\repos\\agriconnectprototype\\agriconnectprototype\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DD9562D-DEED-4DC6-A392-BBC303F15D1C}|AgriConnectPrototype\\AgriConnectPrototype.csproj|solutionrelative:agriconnectprototype\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DD9562D-DEED-4DC6-A392-BBC303F15D1C}|AgriConnectPrototype\\AgriConnectPrototype.csproj|c:\\users\\sedie\\source\\repos\\agriconnectprototype\\agriconnectprototype\\controllers\\supplycontractscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DD9562D-DEED-4DC6-A392-BBC303F15D1C}|AgriConnectPrototype\\AgriConnectPrototype.csproj|solutionrelative:agriconnectprototype\\controllers\\supplycontractscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DD9562D-DEED-4DC6-A392-BBC303F15D1C}|AgriConnectPrototype\\AgriConnectPrototype.csproj|c:\\users\\sedie\\source\\repos\\agriconnectprototype\\agriconnectprototype\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DD9562D-DEED-4DC6-A392-BBC303F15D1C}|AgriConnectPrototype\\AgriConnectPrototype.csproj|solutionrelative:agriconnectprototype\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DD9562D-DEED-4DC6-A392-BBC303F15D1C}|AgriConnectPrototype\\AgriConnectPrototype.csproj|c:\\users\\sedie\\source\\repos\\agriconnectprototype\\agriconnectprototype\\controllers\\farmservicerequestscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DD9562D-DEED-4DC6-A392-BBC303F15D1C}|AgriConnectPrototype\\AgriConnectPrototype.csproj|solutionrelative:agriconnectprototype\\controllers\\farmservicerequestscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DD9562D-DEED-4DC6-A392-BBC303F15D1C}|AgriConnectPrototype\\AgriConnectPrototype.csproj|c:\\users\\sedie\\source\\repos\\agriconnectprototype\\agriconnectprototype\\services\\servicerequestrules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DD9562D-DEED-4DC6-A392-BBC303F15D1C}|AgriConnectPrototype\\AgriConnectPrototype.csproj|solutionrelative:agriconnectprototype\\services\\servicerequestrules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{148951F8-4904-4749-9585-4FAF559C605E}|Tests\\Tests.csproj|c:\\users\\sedie\\source\\repos\\agriconnectprototype\\tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{148951F8-4904-4749-9585-4FAF559C605E}|Tests\\Tests.csproj|solutionrelative:tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DD9562D-DEED-4DC6-A392-BBC303F15D1C}|AgriConnectPrototype\\AgriConnectPrototype.csproj|c:\\users\\sedie\\source\\repos\\agriconnectprototype\\agriconnectprototype\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9DD9562D-DEED-4DC6-A392-BBC303F15D1C}|AgriConnectPrototype\\AgriConnectPrototype.csproj|solutionrelative:agriconnectprototype\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DD9562D-DEED-4DC6-A392-BBC303F15D1C}|AgriConnectPrototype\\AgriConnectPrototype.csproj|c:\\users\\sedie\\source\\repos\\agriconnectprototype\\agriconnectprototype\\views\\farmservicerequests\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9DD9562D-DEED-4DC6-A392-BBC303F15D1C}|AgriConnectPrototype\\AgriConnectPrototype.csproj|solutionrelative:agriconnectprototype\\views\\farmservicerequests\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DD9562D-DEED-4DC6-A392-BBC303F15D1C}|AgriConnectPrototype\\AgriConnectPrototype.csproj|c:\\users\\sedie\\source\\repos\\agriconnectprototype\\agriconnectprototype\\views\\supplycontracts\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9DD9562D-DEED-4DC6-A392-BBC303F15D1C}|AgriConnectPrototype\\AgriConnectPrototype.csproj|solutionrelative:agriconnectprototype\\views\\supplycontracts\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DD9562D-DEED-4DC6-A392-BBC303F15D1C}|AgriConnectPrototype\\AgriConnectPrototype.csproj|c:\\users\\sedie\\source\\repos\\agriconnectprototype\\agriconnectprototype\\views\\farmservicerequests\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9DD9562D-DEED-4DC6-A392-BBC303F15D1C}|AgriConnectPrototype\\AgriConnectPrototype.csproj|solutionrelative:agriconnectprototype\\views\\farmservicerequests\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DD9562D-DEED-4DC6-A392-BBC303F15D1C}|AgriConnectPrototype\\AgriConnectPrototype.csproj|c:\\users\\sedie\\source\\repos\\agriconnectprototype\\agriconnectprototype\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DD9562D-DEED-4DC6-A392-BBC303F15D1C}|AgriConnectPrototype\\AgriConnectPrototype.csproj|solutionrelative:agriconnectprototype\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DD9562D-DEED-4DC6-A392-BBC303F15D1C}|AgriConnectPrototype\\AgriConnectPrototype.csproj|c:\\users\\sedie\\source\\repos\\agriconnectprototype\\agriconnectprototype\\views\\supplycontracts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9DD9562D-DEED-4DC6-A392-BBC303F15D1C}|AgriConnectPrototype\\AgriConnectPrototype.csproj|solutionrelative:agriconnectprototype\\views\\supplycontracts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DD9562D-DEED-4DC6-A392-BBC303F15D1C}|AgriConnectPrototype\\AgriConnectPrototype.csproj|c:\\users\\sedie\\source\\repos\\agriconnectprototype\\agriconnectprototype\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9DD9562D-DEED-4DC6-A392-BBC303F15D1C}|AgriConnectPrototype\\AgriConnectPrototype.csproj|solutionrelative:agriconnectprototype\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DD9562D-DEED-4DC6-A392-BBC303F15D1C}|AgriConnectPrototype\\AgriConnectPrototype.csproj|c:\\users\\sedie\\source\\repos\\agriconnectprototype\\agriconnectprototype\\agriconnectprototype.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9DD9562D-DEED-4DC6-A392-BBC303F15D1C}|AgriConnectPrototype\\AgriConnectPrototype.csproj|solutionrelative:agriconnectprototype\\agriconnectprototype.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DD9562D-DEED-4DC6-A392-BBC303F15D1C}|AgriConnectPrototype\\AgriConnectPrototype.csproj|c:\\users\\sedie\\source\\repos\\agriconnectprototype\\agriconnectprototype\\migrations\\20260511083504_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DD9562D-DEED-4DC6-A392-BBC303F15D1C}|AgriConnectPrototype\\AgriConnectPrototype.csproj|solutionrelative:agriconnectprototype\\migrations\\20260511083504_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\sedie\\source\\repos\\AgriConnectPrototype\\AgriConnectPrototype\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "AgriConnectPrototype\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\sedie\\source\\repos\\AgriConnectPrototype\\AgriConnectPrototype\\Properties\\launchSettings.json",
+              "RelativeToolTip": "AgriConnectPrototype\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-18T08:15:49.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FarmServiceRequest.cs",
+              "DocumentMoniker": "C:\\Users\\sedie\\source\\repos\\AgriConnectPrototype\\AgriConnectPrototype\\Models\\FarmServiceRequest.cs",
+              "RelativeDocumentMoniker": "AgriConnectPrototype\\Models\\FarmServiceRequest.cs",
+              "ToolTip": "C:\\Users\\sedie\\source\\repos\\AgriConnectPrototype\\AgriConnectPrototype\\Models\\FarmServiceRequest.cs",
+              "RelativeToolTip": "AgriConnectPrototype\\Models\\FarmServiceRequest.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T08:24:47.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FileValidationService.cs",
+              "DocumentMoniker": "C:\\Users\\sedie\\source\\repos\\AgriConnectPrototype\\AgriConnectPrototype\\Services\\FileValidationService.cs",
+              "RelativeDocumentMoniker": "AgriConnectPrototype\\Services\\FileValidationService.cs",
+              "ToolTip": "C:\\Users\\sedie\\source\\repos\\AgriConnectPrototype\\AgriConnectPrototype\\Services\\FileValidationService.cs",
+              "RelativeToolTip": "AgriConnectPrototype\\Services\\FileValidationService.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAkwBQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T09:00:14.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CurrencyService.cs",
+              "DocumentMoniker": "C:\\Users\\sedie\\source\\repos\\AgriConnectPrototype\\AgriConnectPrototype\\Services\\CurrencyService.cs",
+              "RelativeDocumentMoniker": "AgriConnectPrototype\\Services\\CurrencyService.cs",
+              "ToolTip": "C:\\Users\\sedie\\source\\repos\\AgriConnectPrototype\\AgriConnectPrototype\\Services\\CurrencyService.cs",
+              "RelativeToolTip": "AgriConnectPrototype\\Services\\CurrencyService.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T08:59:30.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ExchangeRateService.cs",
+              "DocumentMoniker": "C:\\Users\\sedie\\source\\repos\\AgriConnectPrototype\\AgriConnectPrototype\\Services\\ExchangeRateService.cs",
+              "RelativeDocumentMoniker": "AgriConnectPrototype\\Services\\ExchangeRateService.cs",
+              "ToolTip": "C:\\Users\\sedie\\source\\repos\\AgriConnectPrototype\\AgriConnectPrototype\\Services\\ExchangeRateService.cs",
+              "RelativeToolTip": "AgriConnectPrototype\\Services\\ExchangeRateService.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAADwvxYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T09:25:03.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SupplyContract.cs",
+              "DocumentMoniker": "C:\\Users\\sedie\\source\\repos\\AgriConnectPrototype\\AgriConnectPrototype\\Models\\SupplyContract.cs",
+              "RelativeDocumentMoniker": "AgriConnectPrototype\\Models\\SupplyContract.cs",
+              "ToolTip": "C:\\Users\\sedie\\source\\repos\\AgriConnectPrototype\\AgriConnectPrototype\\Models\\SupplyContract.cs",
+              "RelativeToolTip": "AgriConnectPrototype\\Models\\SupplyContract.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAC8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T08:25:40.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Farmer.cs",
+              "DocumentMoniker": "C:\\Users\\sedie\\source\\repos\\AgriConnectPrototype\\AgriConnectPrototype\\Models\\Farmer.cs",
+              "RelativeDocumentMoniker": "AgriConnectPrototype\\Models\\Farmer.cs",
+              "ToolTip": "C:\\Users\\sedie\\source\\repos\\AgriConnectPrototype\\AgriConnectPrototype\\Models\\Farmer.cs",
+              "RelativeToolTip": "AgriConnectPrototype\\Models\\Farmer.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T08:26:29.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FarmersController.cs",
+              "DocumentMoniker": "C:\\Users\\sedie\\source\\repos\\AgriConnectPrototype\\AgriConnectPrototype\\Controllers\\FarmersController.cs",
+              "RelativeDocumentMoniker": "AgriConnectPrototype\\Controllers\\FarmersController.cs",
+              "ToolTip": "C:\\Users\\sedie\\source\\repos\\AgriConnectPrototype\\AgriConnectPrototype\\Controllers\\FarmersController.cs",
+              "RelativeToolTip": "AgriConnectPrototype\\Controllers\\FarmersController.cs",
+              "ViewState": "AgIAAJ8AAAAAAAAAAADwv7YAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T08:38:36.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\sedie\\source\\repos\\AgriConnectPrototype\\AgriConnectPrototype\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "AgriConnectPrototype\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\sedie\\source\\repos\\AgriConnectPrototype\\AgriConnectPrototype\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "AgriConnectPrototype\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAADwvxAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T08:28:07.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CurrencyServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\sedie\\source\\repos\\AgriConnectPrototype\\Tests\\CurrencyServiceTests.cs",
+              "RelativeDocumentMoniker": "Tests\\CurrencyServiceTests.cs",
+              "ToolTip": "C:\\Users\\sedie\\source\\repos\\AgriConnectPrototype\\Tests\\CurrencyServiceTests.cs",
+              "RelativeToolTip": "Tests\\CurrencyServiceTests.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAADwvxwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T07:35:27.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FileValidationServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\sedie\\source\\repos\\AgriConnectPrototype\\Tests\\FileValidationServiceTests.cs",
+              "RelativeDocumentMoniker": "Tests\\FileValidationServiceTests.cs",
+              "ToolTip": "C:\\Users\\sedie\\source\\repos\\AgriConnectPrototype\\Tests\\FileValidationServiceTests.cs",
+              "RelativeToolTip": "Tests\\FileValidationServiceTests.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAADwvycAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T07:36:37.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ServiceRequestRulesTests.cs",
+              "DocumentMoniker": "C:\\Users\\sedie\\source\\repos\\AgriConnectPrototype\\Tests\\ServiceRequestRulesTests.cs",
+              "RelativeDocumentMoniker": "Tests\\ServiceRequestRulesTests.cs",
+              "ToolTip": "C:\\Users\\sedie\\source\\repos\\AgriConnectPrototype\\Tests\\ServiceRequestRulesTests.cs",
+              "RelativeToolTip": "Tests\\ServiceRequestRulesTests.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAADwvxgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T07:37:12.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SupplyContractsController.cs",
+              "DocumentMoniker": "C:\\Users\\sedie\\source\\repos\\AgriConnectPrototype\\AgriConnectPrototype\\Controllers\\SupplyContractsController.cs",
+              "RelativeDocumentMoniker": "AgriConnectPrototype\\Controllers\\SupplyContractsController.cs",
+              "ToolTip": "C:\\Users\\sedie\\source\\repos\\AgriConnectPrototype\\AgriConnectPrototype\\Controllers\\SupplyContractsController.cs",
+              "RelativeToolTip": "AgriConnectPrototype\\Controllers\\SupplyContractsController.cs",
+              "ViewState": "AgIAADQBAAAAAAAAAADwv0cBAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T08:40:04.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\sedie\\source\\repos\\AgriConnectPrototype\\AgriConnectPrototype\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "AgriConnectPrototype\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\sedie\\source\\repos\\AgriConnectPrototype\\AgriConnectPrototype\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "AgriConnectPrototype\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T07:45:18.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ServiceRequestRules.cs",
+              "DocumentMoniker": "C:\\Users\\sedie\\source\\repos\\AgriConnectPrototype\\AgriConnectPrototype\\Services\\ServiceRequestRules.cs",
+              "RelativeDocumentMoniker": "AgriConnectPrototype\\Services\\ServiceRequestRules.cs",
+              "ToolTip": "C:\\Users\\sedie\\source\\repos\\AgriConnectPrototype\\AgriConnectPrototype\\Services\\ServiceRequestRules.cs",
+              "RelativeToolTip": "AgriConnectPrototype\\Services\\ServiceRequestRules.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T09:24:07.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FarmServiceRequestsController.cs",
+              "DocumentMoniker": "C:\\Users\\sedie\\source\\repos\\AgriConnectPrototype\\AgriConnectPrototype\\Controllers\\FarmServiceRequestsController.cs",
+              "RelativeDocumentMoniker": "AgriConnectPrototype\\Controllers\\FarmServiceRequestsController.cs",
+              "ToolTip": "C:\\Users\\sedie\\source\\repos\\AgriConnectPrototype\\AgriConnectPrototype\\Controllers\\FarmServiceRequestsController.cs",
+              "RelativeToolTip": "AgriConnectPrototype\\Controllers\\FarmServiceRequestsController.cs",
+              "ViewState": "AgIAAPYAAAAAAAAAAADwvw0BAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T08:39:30.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\sedie\\source\\repos\\AgriConnectPrototype\\Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "Tests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\sedie\\source\\repos\\AgriConnectPrototype\\Tests\\UnitTest1.cs",
+              "RelativeToolTip": "Tests\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T07:34:37.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\sedie\\source\\repos\\AgriConnectPrototype\\AgriConnectPrototype\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "AgriConnectPrototype\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\sedie\\source\\repos\\AgriConnectPrototype\\AgriConnectPrototype\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "AgriConnectPrototype\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAqwCAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-13T12:04:18.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sedie\\source\\repos\\AgriConnectPrototype\\AgriConnectPrototype\\Program.cs",
+              "RelativeDocumentMoniker": "AgriConnectPrototype\\Program.cs",
+              "ToolTip": "C:\\Users\\sedie\\source\\repos\\AgriConnectPrototype\\AgriConnectPrototype\\Program.cs",
+              "RelativeToolTip": "AgriConnectPrototype\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T08:31:57.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\sedie\\source\\repos\\AgriConnectPrototype\\AgriConnectPrototype\\Views\\SupplyContracts\\Create.cshtml",
+              "RelativeDocumentMoniker": "AgriConnectPrototype\\Views\\SupplyContracts\\Create.cshtml",
+              "ToolTip": "C:\\Users\\sedie\\source\\repos\\AgriConnectPrototype\\AgriConnectPrototype\\Views\\SupplyContracts\\Create.cshtml",
+              "RelativeToolTip": "AgriConnectPrototype\\Views\\SupplyContracts\\Create.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAADoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-13T07:28:01.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\sedie\\source\\repos\\AgriConnectPrototype\\AgriConnectPrototype\\Views\\FarmServiceRequests\\Create.cshtml",
+              "RelativeDocumentMoniker": "AgriConnectPrototype\\Views\\FarmServiceRequests\\Create.cshtml",
+              "ToolTip": "C:\\Users\\sedie\\source\\repos\\AgriConnectPrototype\\AgriConnectPrototype\\Views\\FarmServiceRequests\\Create.cshtml",
+              "RelativeToolTip": "AgriConnectPrototype\\Views\\FarmServiceRequests\\Create.cshtml",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAE8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-13T12:02:47.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\sedie\\source\\repos\\AgriConnectPrototype\\AgriConnectPrototype\\Views\\FarmServiceRequests\\Edit.cshtml",
+              "RelativeDocumentMoniker": "AgriConnectPrototype\\Views\\FarmServiceRequests\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\sedie\\source\\repos\\AgriConnectPrototype\\AgriConnectPrototype\\Views\\FarmServiceRequests\\Edit.cshtml",
+              "RelativeToolTip": "AgriConnectPrototype\\Views\\FarmServiceRequests\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-13T12:02:44.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\sedie\\source\\repos\\AgriConnectPrototype\\AgriConnectPrototype\\Views\\SupplyContracts\\Index.cshtml",
+              "RelativeDocumentMoniker": "AgriConnectPrototype\\Views\\SupplyContracts\\Index.cshtml",
+              "ToolTip": "C:\\Users\\sedie\\source\\repos\\AgriConnectPrototype\\AgriConnectPrototype\\Views\\SupplyContracts\\Index.cshtml",
+              "RelativeToolTip": "AgriConnectPrototype\\Views\\SupplyContracts\\Index.cshtml",
+              "ViewState": "AgIAAJkAAAAAAAAAAAAAAKgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-13T07:25:00.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\sedie\\source\\repos\\AgriConnectPrototype\\AgriConnectPrototype\\appsettings.json",
+              "RelativeDocumentMoniker": "AgriConnectPrototype\\appsettings.json",
+              "ToolTip": "C:\\Users\\sedie\\source\\repos\\AgriConnectPrototype\\AgriConnectPrototype\\appsettings.json",
+              "RelativeToolTip": "AgriConnectPrototype\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-11T08:30:47.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AgriConnectPrototype.csproj",
+              "DocumentMoniker": "C:\\Users\\sedie\\source\\repos\\AgriConnectPrototype\\AgriConnectPrototype\\AgriConnectPrototype.csproj",
+              "RelativeDocumentMoniker": "AgriConnectPrototype\\AgriConnectPrototype.csproj",
+              "ToolTip": "C:\\Users\\sedie\\source\\repos\\AgriConnectPrototype\\AgriConnectPrototype\\AgriConnectPrototype.csproj",
+              "RelativeToolTip": "AgriConnectPrototype\\AgriConnectPrototype.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-11T08:27:37.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "20260511083504_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\sedie\\source\\repos\\AgriConnectPrototype\\AgriConnectPrototype\\Migrations\\20260511083504_InitialCreate.cs",
+              "RelativeDocumentMoniker": "AgriConnectPrototype\\Migrations\\20260511083504_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\sedie\\source\\repos\\AgriConnectPrototype\\AgriConnectPrototype\\Migrations\\20260511083504_InitialCreate.cs",
+              "RelativeToolTip": "AgriConnectPrototype\\Migrations\\20260511083504_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T08:35:05.074Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
